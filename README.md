@@ -39,7 +39,7 @@ limiting, and an analytics dashboard.
 | Email         | `POST /email`     | Draft a full email (subject + body) from a one-liner  |
 | LinkedIn      | `POST /linkedin`  | Networking / referral outreach that gets replies      |
 | Dating        | `POST /dating`    | Friendly, respectful openers and replies              |
-| Personal      | (request param)   | CEO, recruiter, professor, sales expert, founder      |
+| Personas      | (request param)   | CEO, recruiter, professor, sales expert, founder      |
 | History       | `GET/DELETE /history` | Every generation, saved and removable             |
 | Analytics     | `GET /analytics`  | Most-used tones, latency, cache hits, by-module       |
 
