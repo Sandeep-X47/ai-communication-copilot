@@ -326,26 +326,45 @@ Make sure the backend is running on port 8000 and that `5173` is listed in
 
 ---
 
-## License
+--- 
 
-MIT License
+# 📄 License
 
-Copyright (c) 2026 Sandeep (Sandeep-X47)
+Licensed under the MIT License.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+---
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+# 👨‍💻 Author
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+## Sandeep Kumar
+
+Software Engineer • AI Builder • Full Stack Developer
+
+📍 Chennai, India
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/sandeep-x47" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="45" />
+</a>
+
+<a href="https://www.linkedin.com/in/sandeep-kumar-b7a8012bb/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+</a>
+
+<a href="https://www.instagram.com/x.sandeepkumar" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" height="45" />
+</a>
+
+<a href="https://x.com/Sandeep_X47" target="_blank">
+  <img src="https://cdn.simpleicons.org/x/white" height="45" />
+</a>
+
+</p>
+
+---
+
